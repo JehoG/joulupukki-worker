@@ -4,3 +4,6 @@ ubuntu_14.04:
 debian_8:
     debian: debian
     type: docker
+win_32:
+    win: win
+    type: win
