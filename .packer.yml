@@ -6,4 +6,4 @@ debian_8:
     type: docker
 win_32:
     win: win
-    type: win
+    type: docker
